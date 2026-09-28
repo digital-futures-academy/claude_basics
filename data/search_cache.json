@@ -1,0 +1,311 @@
+{
+  "_note": "Cached web-search results captured 2026-09-28 from real pages. Used by web_search() when Tavily is unavailable, so the demo stays reproducible. Content is paraphrased from the linked page.",
+  "captured": "2026-09-28",
+  "entries": {
+    "openai": {
+      "aliases": [
+        "openai",
+        "chatgpt",
+        "gpt",
+        "sam altman",
+        "codex"
+      ],
+      "results": [
+        {
+          "title": "OpenAI raises $122 billion to accelerate the next phase of AI | OpenAI",
+          "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+          "content": "OpenAI announced on 31 March 2026 that it had closed a funding round of $122 billion in committed capital at a post-money valuation of $852 billion, including more than $3 billion from individual investors. OpenAI said it is generating $2 billion in revenue per month, ChatGPT has more than 900 million weekly active users and over 50 million subscribers, and Codex has more than 2 million weekly users. The API processes more than 15 billion tokens per minute and enterprise makes up more than 40% of revenue.",
+          "published_date": "2026-03-31"
+        },
+        {
+          "title": "Microsoft gets 27% stake in OpenAI, and a $250B Azure commitment – GeekWire",
+          "url": "https://www.geekwire.com/2025/microsoft-secures-27-stake-in-openai-in-new-deal-with-commitment-for-250b-in-azure-usage/",
+          "content": "On 28 October 2025 OpenAI completed its recapitalisation into a public benefit corporation, leaving Microsoft with a roughly 27% stake valued at about $135 billion. OpenAI committed to purchase an incremental $250 billion of Azure services, Microsoft retains IP rights through 2032 but loses its right of first refusal on compute, and any AGI declaration must be verified by an independent expert panel. Microsoft had invested about $13.8 billion in OpenAI.",
+          "published_date": "2025-10-28"
+        },
+        {
+          "title": "OpenAI launches Astra, its powerful (and controversial) new model | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+          "content": "OpenAI released Astra (GPT-6 Astra) on 3 September 2026, describing it as a new frontier in computer and browser use and its best software-engineering model to date. It launched first to customers of the Daybreak cybersecurity programme, rolling out over the following week to Plus, Pro, Business and Enterprise users and via the API. Astra uses an 'opaque recurrence' reasoning technique that limits chain-of-thought monitoring, which Chief Scientist Jakub Pachocki defended; President Greg Brockman said of AGI, 'I do think we're there.'",
+          "published_date": "2026-09-03"
+        },
+        {
+          "title": "OpenAI Reportedly Weighs New Funding Round At Valuation Of Up To $1.5 Trillion",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/09/16/openai-is-reportedly-weighing-new-funding-round-at-15-trillion-valuation/",
+          "content": "Citing the New York Times and Wall Street Journal, Forbes reported on 16 September 2026 that OpenAI is in early talks on a pre-IPO funding round at a valuation of up to $1.5 trillion, with investors proposing about $1.2 trillion. OpenAI's annualised revenue run rate reportedly reached $40 billion in August 2026, roughly double its end-2025 level. Sam Altman had said days earlier that an IPO in 2026 would be ill-advised because of AI safety concerns.",
+          "published_date": "2026-09-16"
+        }
+      ]
+    },
+    "anthropic": {
+      "aliases": [
+        "anthropic",
+        "claude",
+        "dario amodei"
+      ],
+      "results": [
+        {
+          "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+          "url": "https://www.anthropic.com/news/series-h",
+          "content": "On 28 May 2026 Anthropic announced a $65 billion Series H at a $965 billion post-money valuation, led by Altimeter, Dragoneer, Greenoaks and Sequoia Capital. The round includes $15 billion in previously committed hyperscaler investment, including $5 billion from Amazon. Anthropic said its run-rate revenue crossed $47 billion earlier in May 2026, and it listed compute agreements of up to 5 GW with Amazon and 5 GW of TPU capacity with Google and Broadcom.",
+          "published_date": "2026-05-28"
+        },
+        {
+          "title": "Anthropic's annualized revenue surges to $65B | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "content": "TechCrunch reported that Anthropic's annualised revenue run rate passed $65 billion as of late July 2026, up from $47 billion in May and about $9 billion at the end of 2025. Investors expect Anthropic to end 2026 with $100–120 billion in revenue. Anthropic has confidentially filed for an IPO, possibly this autumn, at a target valuation of $2 trillion or more, versus its last private valuation of $965 billion.",
+          "published_date": "2026-08-17"
+        },
+        {
+          "title": "Introducing Claude Opus 5.5 \\ Anthropic",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "content": "Anthropic released Claude Opus 5.5 on 22 September 2026, priced at $4 per million input tokens and $20 per million output tokens, 20% below Opus 5. Anthropic says Opus 5.5 performs at the level of Claude Fable 5.1 on most work, scoring 66.4% on Terminal-Bench 4.0 against Fable 5.1's 55.8%. Opus 5.5 is available on the Claude Platform, AWS, Google Cloud and Microsoft Azure under the model ID claude-opus-5-5.",
+          "published_date": "2026-09-22"
+        },
+        {
+          "title": "Anthropic raises $30 billion Series G funding at $380 billion post-money valuation",
+          "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+          "content": "On 12 February 2026 Anthropic raised $30 billion at a $380 billion post-money valuation, led by GIC and Coatue, with Microsoft and NVIDIA among the participants. Anthropic reported $14 billion in run-rate revenue and more than 500 customers spending over $1 million a year, and said 8 of the Fortune 10 are customers. Claude Code's run-rate revenue exceeded $2.5 billion.",
+          "published_date": "2026-02-12"
+        }
+      ]
+    },
+    "mistral": {
+      "aliases": [
+        "mistral",
+        "le chat",
+        "arthur mensch"
+      ],
+      "results": [
+        {
+          "title": "Mistral raises €3B as sovereign AI becomes big business | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "content": "Mistral AI raised €3 billion (about $3.58 billion) in a Series D at a €21 billion post-money valuation (about $24.39 billion), described as the largest equity round ever completed by a European tech company. Samsung Electronics led, with the EQT-managed Scaleup Europe Fund and PSG Equity co-leading; Advent, BlackRock and the Grand Duchy of Luxembourg joined existing backers a16z, Nvidia and Salesforce Ventures. Mistral plans to build 1 GW of compute in Europe by 2030.",
+          "published_date": "2026-09-08"
+        },
+        {
+          "title": "Mistral AI raises 1.7B€ to accelerate technological progress with AI | Mistral AI",
+          "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
+          "content": "Mistral AI announced a €1.7 billion Series C at an €11.7 billion post-money valuation, led by ASML Holding NV as part of a strategic partnership. Existing investors DST Global, Andreessen Horowitz, Bpifrance, General Catalyst, Index Ventures, Lightspeed and NVIDIA also took part.",
+          "published_date": "2025-09-09"
+        },
+        {
+          "title": "Introducing Mistral 3 | Mistral AI",
+          "url": "https://mistral.ai/news/mistral-3/",
+          "content": "Mistral AI released the Mistral 3 family under the Apache 2.0 licence: Mistral Large 3, a sparse mixture-of-experts model with 675B total and 41B active parameters trained on 3,000 NVIDIA H200 GPUs, plus Ministral 3 models at 3B, 8B and 14B. All are open-weight and multimodal, and are available on Mistral AI Studio, Amazon Bedrock, Azure Foundry, Hugging Face and other platforms.",
+          "published_date": "2025-12-02"
+        },
+        {
+          "title": "Mistral AI on track to reach one billion euros in revenue by 2026 - Maddyness UK",
+          "url": "https://www.maddyness.com/uk/2026/01/23/mistral-ai-on-track-to-reach-one-billion-euros-in-revenue-by-2026/",
+          "content": "At Davos, Mistral AI CEO Arthur Mensch said the company should exceed €1 billion in revenue by the end of 2026. Mistral's annual recurring revenue was €300 million in September 2025, and about €1 billion has been earmarked for capital expenditure. Revenue comes from enterprise model licensing and Le Chat enterprise and consumer subscriptions.",
+          "published_date": "2026-01-23"
+        }
+      ]
+    },
+    "deepseek": {
+      "aliases": [
+        "deepseek",
+        "liang wenfeng"
+      ],
+      "results": [
+        {
+          "title": "DeepSeek V4 Preview Release | DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/news/news260424/",
+          "content": "On 24 April 2026 DeepSeek released open-weight previews of DeepSeek-V4-Pro (1.6T total / 49B active parameters) and DeepSeek-V4-Flash (284B total / 13B active). A 1M-token context window became standard across DeepSeek's official services, both models offer thinking and non-thinking modes, and the API supports OpenAI ChatCompletions and Anthropic formats. The legacy deepseek-chat and deepseek-reasoner models were to be retired after 24 July 2026.",
+          "published_date": "2026-04-24"
+        },
+        {
+          "title": "DeepSeek takes outside money for the first time at a $50 billion valuation",
+          "url": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/",
+          "content": "Citing The Information and Reuters, The Decoder reports that DeepSeek raised more than 50 billion yuan (about $7.4 billion) at a $50 billion valuation in its first external funding round. Founder Liang Wenfeng put in about 20 billion yuan himself, alongside Tencent, CATL and China's state-backed AI fund; most investors bought into a Liang-controlled limited partnership with no voting rights and a five-year lock-up. In April 2026 DeepSeek had reportedly been seeking $300 million at a $10 billion valuation.",
+          "published_date": "2026-06-16"
+        },
+        {
+          "title": "Chinese filing implies DeepSeek valuation of around $52 billion By Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/chinese-filing-implies-deepseek-valuation-of-around-52-billion-4796314",
+          "content": "A Chinese stock-exchange filing by Anhui Korrun showed that one of its subsidiaries invested 2.90 billion yuan for an indirect 0.8265% stake in DeepSeek via a fund. That implies a DeepSeek valuation of about 350.88 billion yuan ($51.82 billion). DeepSeek has never publicly announced or detailed its fundraising.",
+          "published_date": "2026-07-16"
+        },
+        {
+          "title": "DeepSeek didn't really train its flagship model for $294,000 | The Register",
+          "url": "https://www.theregister.com/2025/09/19/deepseek_cost_train/",
+          "content": "DeepSeek's R1 paper in Nature put R1's reinforcement-learning training cost at about $294,000, using 64 eight-way H800 servers (512 GPUs) for about 198 hours plus 80 more hours. The Register notes that this excludes the DeepSeek-V3 base model, which took 2.79 million GPU hours on 2,048 H800s at an estimated $5.58 million, putting the total at about $5.87 million.",
+          "published_date": "2025-09-19"
+        }
+      ]
+    },
+    "meta": {
+      "aliases": [
+        "meta",
+        "meta platforms",
+        "meta ai",
+        "superintelligence labs",
+        "muse spark",
+        "zuckerberg"
+      ],
+      "results": [
+        {
+          "title": "Meta Reports Second Quarter 2026 Results",
+          "url": "https://www.prnewswire.com/news-releases/meta-reports-second-quarter-2026-results-302838214.html",
+          "content": "Meta reported Q2 2026 revenue of $60.80 billion, up 28% year over year, with net income of $15.85 billion and diluted EPS of $6.18. Capital expenditures in the quarter were $31.08 billion, and Meta narrowed its full-year 2026 capex outlook to $130-145 billion with total expenses of $165-169 billion. Headcount was 75,472 on 30 June 2026 and family daily active people averaged 3.60 billion.",
+          "published_date": "2026-07-29"
+        },
+        {
+          "title": "Introducing Muse Spark: Meta's Most Powerful Model Yet",
+          "url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/",
+          "content": "Meta Superintelligence Labs introduced Muse Spark, the first model in its Muse series, on 8 April 2026. It powers the Meta AI app and meta.ai, rolling out to WhatsApp, Instagram, Facebook, Messenger and AI glasses, and is available in private API preview to select partners. Muse Spark is proprietary, though Meta says it hopes to open-source future versions.",
+          "published_date": "2026-04-08"
+        },
+        {
+          "title": "Meta Superintelligence Labs - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Meta_Superintelligence_Labs",
+          "content": "Meta Superintelligence Labs was founded on 30 June 2025 with Alexandr Wang as Chief AI Officer after Meta invested $14.3 billion for a 49% non-voting stake in Scale AI; Nat Friedman leads products and applied research. MSL was restructured into four groups (TBD Lab, FAIR, Products and Applied Research, MSL Infra) in August 2025 and cut 600 jobs on 22 October 2025. Yann LeCun left on 20 November 2025, and MSL released Muse Spark (8 April 2026) and the 30-billion-parameter open-weight Muse Glimmer (10 August 2026).",
+          "published_date": null
+        },
+        {
+          "title": "Meta AI now has 1B monthly active users",
+          "url": "https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/",
+          "content": "Mark Zuckerberg told Meta's annual shareholder meeting that the Meta AI assistant had reached 1 billion monthly active users across Meta's apps, up from 500 million in September 2024. He said priorities included making Meta AI the leading personal AI, with eventual monetisation through paid recommendations or a subscription. The milestone followed the April 2025 launch of the standalone Meta AI app.",
+          "published_date": "2025-05-29"
+        }
+      ]
+    },
+    "llama": {
+      "aliases": [
+        "llama"
+      ],
+      "results": [
+        {
+          "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation",
+          "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+          "content": "Meta released Llama 4 Scout (17B active, 109B total parameters, 16 experts, 10M-token context) and Llama 4 Maverick (17B active, 400B total, 128 experts) on 5 April 2025, previewing Llama 4 Behemoth (288B active, about 2 trillion total parameters) as a teacher model still in training. Llama 4 was pre-trained on more than 30 trillion tokens covering 200 languages using FP8 on 32K GPUs. Scout fits on a single NVIDIA H100 GPU with Int4 quantisation.",
+          "published_date": "2025-04-05"
+        },
+        {
+          "title": "Celebrating 1 Billion Downloads of Llama",
+          "url": "https://about.fb.com/news/2025/03/celebrating-1-billion-downloads-llama/",
+          "content": "Meta announced that Llama models had passed 1 billion downloads as of 18 March 2025, roughly two years after the first release in 2023. The post cited adopters including Spotify and Fynopsis and argued that open-sourcing AI is crucial to ensuring broad access to its benefits.",
+          "published_date": "2025-03-18"
+        },
+        {
+          "title": "Introducing Llama 3.1: Our most capable models to date",
+          "url": "https://ai.meta.com/blog/meta-llama-3-1/",
+          "content": "On 23 July 2024 Meta released Llama 3.1 in 8B, 70B and 405B sizes, all with a 128K-token context window and support for eight languages. The 405B model was trained on over 15 trillion tokens using more than 16,000 H100 GPUs, and the updated licence allowed developers to use Llama outputs to improve other models. The models launched on 25+ partner platforms including AWS, NVIDIA and Google Cloud.",
+          "published_date": "2024-07-23"
+        },
+        {
+          "title": "Meta abandons open-source Llama for proprietary Muse Spark",
+          "url": "https://thenewstack.io/meta-abandons-llama-spark/",
+          "content": "With the April 2026 launch of Muse Spark, a proprietary model built by Meta Superintelligence Labs on new infrastructure and architecture, Meta shifted development investment away from Llama. Meta said current Llama models remain available as open source but would receive only incremental updates and maintenance. The article notes Meta had reported 1.2 billion Llama downloads a year earlier.",
+          "published_date": null
+        }
+      ]
+    },
+    "amazon": {
+      "aliases": [
+        "amazon",
+        "aws",
+        "bedrock",
+        "trainium",
+        "nova",
+        "alexa"
+      ],
+      "results": [
+        {
+          "title": "Amazon Q2 2026 earnings report: Read the release",
+          "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report",
+          "content": "Amazon reported Q2 2026 net sales of $200.6 billion (+20%) and net income of $62.6 billion, including a $53.4 billion pre-tax gain on its Anthropic investment. AWS sales rose 37% to $42.2 billion, its fastest growth in 18 quarters, with a $169 billion annualised run rate and $16.6 billion operating income. Amazon said its AI business and chips business each exceeded a $25 billion annual revenue run rate, growing at triple-digit percentages.",
+          "published_date": "2026-07-30"
+        },
+        {
+          "title": "Andy Jassy said Amazon will spend $220 billion this year—and still won't have enough capacity to meet demand | Fortune",
+          "url": "https://fortune.com/2026/07/30/andy-jassy-amazon-capex-demand-aws-pga-tour/",
+          "content": "Amazon raised its 2026 capital expenditure plan to about $220 billion from a prior $200 billion, citing higher memory costs, and CEO Andy Jassy said this still would not provide enough capacity for 2026 demand. AWS backlog reached about $496 billion and AWS operating margin was 39.4%. AWS plans to double its power capacity by the end of 2027 versus 2025, and Bedrock customers spent more in Q2 than in all prior quarters combined.",
+          "published_date": "2026-07-30"
+        },
+        {
+          "title": "Amazon announces $5B Anthropic investment, up to $20B more",
+          "url": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
+          "content": "On 20 April 2026 Amazon announced a further $5 billion investment in Anthropic, with up to $20 billion more tied to commercial milestones, on top of its prior $8 billion. Anthropic committed to spend more than $100 billion over ten years on AWS technologies including Trainium and Graviton, for up to 5 gigawatts of capacity. Project Rainier uses nearly half a million Trainium2 chips, and the Claude Platform became available natively through AWS accounts.",
+          "published_date": "2026-04-20"
+        },
+        {
+          "title": "Amazon invests $50B in OpenAI, deepens AWS partnership with expanded $100B cloud deal – GeekWire",
+          "url": "https://www.geekwire.com/2026/amazon-invests-50b-in-openai-deepens-aws-partnership-with-expanded-100b-cloud-deal/",
+          "content": "On 27 February 2026 Amazon agreed to invest $50 billion in OpenAI ($15 billion initially and $35 billion conditional) as part of a $110 billion round at a $730 billion pre-money valuation. The existing $38 billion AWS deal was expanded to $100 billion over eight years, and OpenAI committed to consume 2 gigawatts of Trainium capacity. Amazon also said it would offer OpenAI models through Amazon Bedrock.",
+          "published_date": "2026-02-27"
+        }
+      ]
+    },
+    "google": {
+      "aliases": [
+        "google",
+        "gemini",
+        "deepmind",
+        "alphabet",
+        "gemma",
+        "tpu"
+      ],
+      "results": [
+        {
+          "title": "Alphabet Announces Second Quarter 2026 Results",
+          "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf",
+          "content": "Alphabet reported Q2 2026 revenue of $119.8 billion (+24%) and Google Cloud revenue of $24.8 billion (+82%), with net income of $112.1 billion. Capital expenditure was $44.9 billion for the quarter and headcount was 198,933. Sundar Pichai said the Gemini app has 950 million monthly active users and Gemini models process 22 billion API tokens per minute.",
+          "published_date": "2026-07-22"
+        },
+        {
+          "title": "Sundar Pichai Raised Alphabet's 2026 Capex Forecast to as Much as $205 Billion | The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/08/11/sundar-pichai-alphabet-2026-capex-forecast-buy/",
+          "content": "Alphabet raised its 2026 capital expenditure forecast to $195–205 billion from a prior $180–190 billion after Q2 2026 results, and the stock fell about 7%. Q2 capex of $44.9 billion was roughly double the prior year. Google Cloud grew 82% to $24.8 billion and the Gemini app reached 950 million monthly active users.",
+          "published_date": "2026-08-11"
+        },
+        {
+          "title": "The next chapter of our AI momentum",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "content": "On 5 August 2026 Google announced that Demis Hassabis would hand over day-to-day operations to become Chair of Google DeepMind and Chief Scientist of Alphabet. Koray Kavukcuoglu, previously Google DeepMind CTO and Chief AI Architect, became Senior Vice President leading Google DeepMind, reporting to Sundar Pichai. Jeff Dean is leaving after 27 years to launch a public benefit corporation with Sanjay Ghemawat, with Google as a founding investor.",
+          "published_date": "2026-08-05"
+        },
+        {
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+          "content": "Google DeepMind released Gemma 4 on 2 April 2026 in four sizes: effective 2B and 4B edge models (128K context) and 26B mixture-of-experts and 31B dense models (up to 256K context). Gemma 4 is licensed under Apache 2.0. The Gemma family has passed 400 million downloads and more than 100,000 community variants, and the 31B model ranked third on Arena AI's open-model leaderboard.",
+          "published_date": "2026-04-02"
+        }
+      ]
+    },
+    "qwen": {
+      "aliases": [
+        "qwen",
+        "alibaba",
+        "tongyi"
+      ],
+      "results": [
+        {
+          "title": "Qwen - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Qwen",
+          "content": "Qwen (Tongyi Qianwen) is Alibaba's family of large language models; Alibaba launched a beta in April 2023 and a public release in September 2023 after regulatory clearance. Qwen3 launched in April 2025 with dense models from 0.6B to 32B and MoE models 30B-A3B and 235B-A22B, trained on 36 trillion tokens in 119 languages. In 2026 Alibaba released Qwen3.5 (February), Qwen3.6 (April) and Qwen3.8, including the open-weight Qwen3.8-2.4T-A95B on 12 August 2026. Qwen technical lead Lin Junyang resigned in March 2026.",
+          "published_date": null
+        },
+        {
+          "title": "Qwen3.8-Max: Features, Benchmarks, and Pricing | DataCamp",
+          "url": "https://www.datacamp.com/blog/qwen3-8-max",
+          "content": "Qwen3.8-Max was released on 3 August 2026, with an updated Qwen3.8-Max-0902 version on 2 September 2026 focused on coding and agents. It is a sparse mixture-of-experts model with 2.4 trillion total parameters and about 95 billion active per forward pass, and a 1 million-token context window. API pricing is US$2.00 per million input tokens and US$6.00 per million output tokens.",
+          "published_date": null
+        },
+        {
+          "title": "State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "content": "Hugging Face counts 151,448 Qwen derivatives on the Hub, 2.6 times Meta's footprint, with 180-210 new Qwen-based repositories created daily in the first seven months of 2026. Qwen models recorded about 2,045 million downloads in 2026 and about 39.6 million GGUF downloads per month, nearly double Gemma's 20.8 million.",
+          "published_date": null
+        },
+        {
+          "title": "Alibaba to Invest RMB380 billion in AI and Cloud Infrastructure Over Next Three Years - Alibaba Cloud Community",
+          "url": "https://www.alibabacloud.com/blog/alibaba-to-invest-rmb380-billion-in-ai-and-cloud-infrastructure-over-next-three-years_602007",
+          "content": "On 24 February 2025 Alibaba announced it would invest RMB 380 billion (about US$53 billion) in AI and cloud computing infrastructure over the next three years, more than its total AI and cloud spending over the past decade. CEO Eddie Wu said pursuing artificial general intelligence was the company's primary objective. AI-related product revenue had posted triple-digit growth for the sixth consecutive quarter.",
+          "published_date": "2025-02-24"
+        }
+      ]
+    }
+  }
+}

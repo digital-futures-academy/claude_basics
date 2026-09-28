@@ -1,0 +1,11 @@
+# Python 3.10–3.13
+anthropic>=1.8.0          # Messages API (pointed at OpenRouter)
+claude-agent-sdk>=0.2.160 # section 9 only. On Windows also install the Claude Code CLI
+tavily-python>=0.8.4      # web search (falls back to data/search_cache.json without a key)
+faiss-cpu>=1.9
+numpy
+httpx                     # embeddings call to OpenRouter
+python-dotenv
+pandas
+ipykernel
+nbformat
